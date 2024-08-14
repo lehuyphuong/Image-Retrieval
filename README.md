@@ -2,7 +2,7 @@
 ## **Overview**
 This project will focus on constructing image retrieval application
 The rest content of this article guide how to set up and run execution
-exercise 2.2 and 4 will be explained in colab markdown. This article will serve exercise 2.1 only
+exercise 2.2 will be explained in colab markdown. This article will serve exercise 2.1 only
 
 ### **Part 1: Train model**
 This part will focus on:
